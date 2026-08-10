@@ -436,3 +436,9 @@ example, the messaging adapter's Matrix crypto dependency is documented in its
 By contributing, you accept the CLA terms in [`LICENSE`](LICENSE) (copyright
 assignment / exclusive commercializable license). Contributing does **not**
 grant free production rights.
+
+## Support the studio
+
+Drooly ships free, open, web-first software from a one-person studio. If you want it to
+keep existing, you can tip at **[drooly.ai/support](https://drooly.ai/support)** — card or
+BTC/ETH/SOL. A tip grants nothing: no perks, no credits, no priority. That is the whole deal.
