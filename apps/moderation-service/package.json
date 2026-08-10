@@ -30,7 +30,7 @@
   "devDependencies": {
     "@wokesocial/test-fixtures": "workspace:*",
     "@types/node": "22.20.1",
-    "tsx": "4.23.1",
+    "tsx": "4.23.11",
     "vitest": "4.1.10"
   }
 }
