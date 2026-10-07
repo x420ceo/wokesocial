@@ -30,7 +30,7 @@
     "@wokesocial/rate-limit": "workspace:*",
     "@wokesocial/storage": "workspace:*",
     "bs58": "6.0.0",
-    "fastify": "5.10.0",
+    "fastify": "5.12.5",
     "pino": "10.3.1",
     "postgres": "3.4.9",
     "zod": "4.4.3"
