@@ -24,7 +24,7 @@
     "@wokesocial/storage": "workspace:*",
     "@wokesocial/ui": "workspace:*",
     "bs58": "6.0.0",
-    "next": "16.2.12",
+    "next": "16.4.1",
     "react": "19.2.8",
     "react-dom": "19.2.8"
   },
