@@ -25,7 +25,7 @@
     "@wokesocial/rate-limit": "workspace:*",
     "fastify": "5.10.0",
     "postgres": "3.4.9",
-    "zod": "4.4.3"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@wokesocial/test-fixtures": "workspace:*",
